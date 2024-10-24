@@ -7,3 +7,4 @@
 [https://github.com/2303A51939/23CSBTB-27/blob/main/lab04_housing_price_predection.ipynb]
 [https://github.com/2303A51939/23CSBTB-27/blob/main/Colaboratory_Release_Notes.ipynb]
 [https://github.com/2303A51939/23CSBTB-27/blob/main/lab06.ipynb]
+[https://github.com/2303A51939/23CSBTB-27/blob/main/lab_07_aiml.ipynb]
