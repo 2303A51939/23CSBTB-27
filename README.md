@@ -8,4 +8,5 @@
 [https://github.com/2303A51939/23CSBTB-27/blob/main/Colaboratory_Release_Notes.ipynb]
 [https://github.com/2303A51939/23CSBTB-27/blob/main/lab06.ipynb]
 [https://github.com/2303A51939/23CSBTB-27/blob/main/lab_7.ipynb]
+[https://github.com/2303A51939/23CSBTB-27/blob/main/lab_8.ipynb]
 [https://github.com/2303A51939/23CSBTB-27/blob/main/lab_9.ipynb]
